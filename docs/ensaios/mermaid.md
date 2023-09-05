@@ -1,5 +1,3 @@
-# Pedra
-
 ```mermaid
 graph LR
     hello --> world
